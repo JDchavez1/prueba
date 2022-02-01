@@ -1,0 +1,16 @@
+.foto{
+    width: 500px;
+}
+.container{
+    background: rgb(238, 10, 10);
+    width: 500px;
+    border: 5px solid rgb(249, 249, 252);
+}
+
+.verticalcenter{
+    position: relative;
+    top: 60%;
+    -webkit-transform: translateY(-60%);
+    -o-transform: translateY(-60%);
+    transform: translateY(-60%);
+}
